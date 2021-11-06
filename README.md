@@ -1,5 +1,5 @@
 # fletchnodes
-Node groups for Blender geometry nodes.
+Node groups for Blender 3.0 geometry nodes.
 
 ![](img/bezier_strip_demo.jpg)
 
