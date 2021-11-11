@@ -12,3 +12,5 @@ Node groups for Blender 3.0 geometry nodes.
 ![](img/mirror_demo.jpg)
 
 ![](img/angle_viz_demo.jpg)
+
+![](img/vector_viz_demo.jpg)
